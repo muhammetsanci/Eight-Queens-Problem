@@ -20,4 +20,6 @@ In this solution, algorithm uses gradient descent optimalism.
 4. Checked if optimization is stucked at local optimum point; if there is stilness, return to step 1 and randomize queens.
 5. If the most optimal state is found, which is 0 threats, the model is terminated; if not, it is repeated from the 2nd step.
 
+---
+
 > **Fun Fact**: There are 92 different solution states for this problem.
